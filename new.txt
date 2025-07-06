@@ -3,3 +3,5 @@ NEW FILE
 1.Learn Js
 2.Learn GIT
 3.Learn CSS
+
+new changes for conflict
