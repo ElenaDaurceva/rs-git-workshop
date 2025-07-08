@@ -1,7 +1,9 @@
-NEW FILE
+NEW FILE #1
 
 1.Learn Js
 2.Learn GIT
 3.Learn CSS
 
 new changes for conflict
+
+just a new code
