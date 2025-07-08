@@ -6,4 +6,4 @@ NEW FILE #1
 
 new changes for conflict
 
-just a new code
+change code
